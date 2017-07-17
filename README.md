@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CandlandViewTool::Renderer.copyright 'Caden Candland', 'All rights reserved'
+```
 
 ## Development
 
